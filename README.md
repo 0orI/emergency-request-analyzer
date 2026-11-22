@@ -30,10 +30,10 @@ How to Run
 4. Run the following command:
     python emergency_requests.py
 
-Sample Results
+## Sample Results
 
 For the included sample data:
-
+``` text
 * Total requests: 90
 * Average daily requests: 12.86
 * Busiest day: Wednesday (21 requests)
@@ -42,6 +42,7 @@ For the included sample data:
 * Requests during high-workload days: 38
 * High-workload request percentage: 42.22%
 * Overall weekday workload status: Normal workload
+```
 
 Purpose
 
